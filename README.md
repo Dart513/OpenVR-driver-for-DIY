@@ -67,3 +67,6 @@ To remove, delete the directory "<steam-install-path>\steamapps\common\SteamVR\d
 
 ## Feedback
 `r57zone[at]gmail.com`
+
+NOTE FOR DARTON:
+https://github.com/ValveSoftware/openvr/issues/498
