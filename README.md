@@ -72,3 +72,4 @@ NOTE FOR DARTON:
 https://github.com/ValveSoftware/openvr/issues/498
 https://skarredghost.com/2018/03/15/introduction-to-openvr-101-series-what-is-openvr-and-how-to-get-started-with-its-apis/
 https://github.com/ValveSoftware/openvr/issues/351
+https://github.com/ValveSoftware/openvr/wiki/API-Documentation
