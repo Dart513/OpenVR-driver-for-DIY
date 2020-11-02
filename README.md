@@ -74,3 +74,4 @@ https://skarredghost.com/2018/03/15/introduction-to-openvr-101-series-what-is-op
 https://github.com/ValveSoftware/openvr/issues/351  
 https://github.com/ValveSoftware/openvr/wiki/API-Documentation  
 https://github.com/OSVR/SteamVR-OSVR/blob/master/src/driver_osvr.h  
+https://steamcommunity.com/app/358720/discussions/0/357285562491967063/?l=czech
